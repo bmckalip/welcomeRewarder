@@ -1,0 +1,3 @@
+name: WelcomeRewarder
+main: bmckalip.WelcomeRewarder.WelcomeRewarder
+version: 0.1

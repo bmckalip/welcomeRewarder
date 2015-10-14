@@ -1,0 +1,8 @@
+#amount of money reward the player for welcoming a new player
+rewardAmount: 10
+
+#rarity of rare prizes in % (eg. 5%)
+rarity: 5
+
+#minimum % of characters from the new player's name required in a player's welcome message (eg 40%)
+minimumPercentage: 40
